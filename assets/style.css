@@ -244,6 +244,13 @@ input[type="submit"] {
 	padding: .5em 1em
 }
 
+@font-face {
+  font-family: 'MaPolice';
+  src: url('...') format('woff2');
+  font-display: swap;
+}
+
+
 @media all and (max-width: 1180px) {
 	.picture {
 		flex : 2;
